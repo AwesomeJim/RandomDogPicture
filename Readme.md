@@ -13,7 +13,9 @@ Show Dog images based on the selected breeds( the photots are ramdomley selected
 
 Screenshots
 ------------
+ScreenShot-1.
 
+![ScreenShot-1](Screenshots/ScreenShot-1.png "ScreenShot-1" ) ![ScreenShot-2](Screenshots/ScreenShot-2.png "ScreenShot-2" )   ![ScreenShot-3](Screenshots/ScreenShot-3.png "ScreenShot-3" )  
 
 License
 --------
